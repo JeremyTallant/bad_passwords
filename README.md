@@ -4,12 +4,12 @@ In June 2017 the National Institute of Standards and Technology (NIST) published
 
 In this project, we will take a list of user passwords and, using publication 800-63B, we will write code that automatically detects and flags the bad passwords.
 ## Contents
-1. The NIST Special Publication 800-63B
-2. Passwords should not be too short
-3. Common passwords people use
-4. Passwords should not be common passwords
-5. Passwords should not be common words
-6. Passwords should not be your name
-7. Passwords should not be repetitive
-8. All together now!
-9. Otherwise, the password should be up to the user
+1. **The NIST Special Publication 800-63B:**
+2. **Passwords should not be too short:**
+3. **Common passwords people use:**
+4. **Passwords should not be common passwords:**
+5. **Passwords should not be common words:**
+6. **Passwords should not be your name:**
+7. **Passwords should not be repetitive:**
+8. **All together now!:**
+9. **Otherwise, the password should be up to the user:**
