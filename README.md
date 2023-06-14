@@ -6,7 +6,7 @@ In this project, we will take a list of user passwords and, using publication 80
 ## Contents
 1. **The NIST Special Publication 800-63B:** Load in and inspect the usernames and passwords of the fictional users.
 2. **Passwords should not be too short:** Flag the passwords that are too short.
-3. **Common passwords people use:**
+3. **Common passwords people use:** Load in the list with the 10,000 most common passwords.
 4. **Passwords should not be common passwords:**
 5. **Passwords should not be common words:**
 6. **Passwords should not be your name:**
