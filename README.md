@@ -9,7 +9,7 @@ In this project, we will take a list of user passwords and, using publication 80
 3. **Common passwords people use:** Load in the list with the 10,000 most common passwords.
 4. **Passwords should not be common passwords:** Flag the `user` passwords that are among the top 10,000 used passwords.
 5. **Passwords should not be common words:** Flag the passwords that are among the 10,000 most common English words.
-6. **Passwords should not be your name:**
+6. **Passwords should not be your name:** Flag passwords that are the same as the users first or last name.
 7. **Passwords should not be repetitive:**
 8. **All together now!:**
 9. **Otherwise, the password should be up to the user:**
