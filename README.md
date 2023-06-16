@@ -11,5 +11,5 @@ In this project, we will take a list of user passwords and, using publication 80
 5. **Passwords should not be common words:** Flag the passwords that are among the 10,000 most common English words.
 6. **Passwords should not be your name:** Flag passwords that are the same as the users first or last name.
 7. **Passwords should not be repetitive:** Flag passwords that contain 4 or more repeated characters.
-8. **All together now!:**
+8. **All together now!:** Flag all the bad passwords.
 9. **Otherwise, the password should be up to the user:**
