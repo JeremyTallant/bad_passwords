@@ -12,4 +12,4 @@ In this project, we will take a list of user passwords and, using publication 80
 6. **Passwords should not be your name:** Flag passwords that are the same as the users first or last name.
 7. **Passwords should not be repetitive:** Flag passwords that contain 4 or more repeated characters.
 8. **All together now!:** Flag _all_ the bad passwords.
-9. **Otherwise, the password should be up to the user:**
+9. **Otherwise, the password should be up to the user:** Assign a new password to `new_password` that passes the NIST rules you've implemented in this project.
